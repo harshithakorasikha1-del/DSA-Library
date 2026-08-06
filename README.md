@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0069-sqrtx) |
 ## Stack
 |  |
 | ------- |
@@ -49,4 +50,12 @@
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0853-car-fleet) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
