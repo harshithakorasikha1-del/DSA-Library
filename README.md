@@ -20,6 +20,7 @@
 ## String
 |  |
 | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/2390-removing-stars-from-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
@@ -33,4 +34,12 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0007-reverse-integer) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
