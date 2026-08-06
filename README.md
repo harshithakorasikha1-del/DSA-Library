@@ -17,4 +17,16 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0061-rotate-list) |
+## String
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Sorting
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
