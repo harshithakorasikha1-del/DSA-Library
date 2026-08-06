@@ -29,4 +29,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
