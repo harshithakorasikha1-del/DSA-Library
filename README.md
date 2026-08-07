@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0001-two-sum) |
 | [0853-car-fleet](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0853-car-fleet) |
+| [0977-squares-of-a-sorted-array](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0061-rotate-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -30,6 +32,7 @@
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0853-car-fleet) |
+| [0977-squares-of-a-sorted-array](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0977-squares-of-a-sorted-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
