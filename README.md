@@ -13,6 +13,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0061-rotate-list) |
 ## Two Pointers
@@ -37,6 +38,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0069-sqrtx) |
 ## Stack
@@ -60,4 +62,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0069-sqrtx) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
