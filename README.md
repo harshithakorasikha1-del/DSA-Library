@@ -13,10 +13,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0061-rotate-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0061-rotate-list) |
 ## String
 |  |
