@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0053-maximum-subarray) |
 | [0853-car-fleet](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -69,4 +70,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
