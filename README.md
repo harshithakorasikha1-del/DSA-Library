@@ -11,6 +11,7 @@
 | [0454-4sum-ii](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0454-4sum-ii) |
 | [0853-car-fleet](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0977-squares-of-a-sorted-array) |
+| [1095-find-in-mountain-array](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/1095-find-in-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0069-sqrtx) |
+| [1095-find-in-mountain-array](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/1095-find-in-mountain-array) |
 ## Newton's Method
 |  |
 | ------- |
@@ -102,4 +104,12 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0100-same-tree) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/1095-find-in-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
