@@ -13,6 +13,7 @@
 | [0853-car-fleet](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0977-squares-of-a-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/1095-find-in-mountain-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/2390-removing-stars-from-a-string) |
+| [3925-concatenate-array-with-reverse](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/3925-concatenate-array-with-reverse) |
 ## Monotonic Stack
 |  |
 | ------- |
