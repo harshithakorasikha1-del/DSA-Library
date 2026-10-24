@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0073-set-matrix-zeroes) |
 | [0162-find-peak-element](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0162-find-peak-element) |
 | [0454-4sum-ii](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0454-4sum-ii) |
 | [0853-car-fleet](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0853-car-fleet) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0073-set-matrix-zeroes) |
 | [0454-4sum-ii](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0454-4sum-ii) |
 ## Linked List
 |  |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/1095-find-in-mountain-array) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
