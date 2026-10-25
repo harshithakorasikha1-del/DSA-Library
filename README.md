@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0018-4sum) |
+| [0048-rotate-image](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0073-set-matrix-zeroes) |
 | [0162-find-peak-element](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0162-find-peak-element) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0069-sqrtx) |
 ## Stack
 |  |
@@ -121,5 +123,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/harshithakorasikha1-del/DSA-Library/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
